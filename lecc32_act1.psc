@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo act1
 	Definir metros, resultado Como Real
 	Definir opcion Como Entero
 	
